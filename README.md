@@ -21,4 +21,4 @@
 - 군집화 분석 결과가 적당했는지, 실제 레이블을 기준으로 평가 (관측치의 색으로 표기)
   ※ 군집화 분석은 비지도학습 기법이나, 연구 수행 시 알고리즘의 유효성 평가를 위해 레이블이 있는 데이터에 대해 실험
 - PCA 같은 차원축소 등을 통해 2차원 상에 가시화 (예시, 실제 label을 관측치의 색으로 표시)
-  예시> https://in2techs.com/mnist-visualization-using-pca-and-tsne-in-python/
+  - 예시> https://in2techs.com/mnist-visualization-using-pca-and-tsne-in-python/
